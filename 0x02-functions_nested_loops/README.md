@@ -13,3 +13,4 @@ a function that prints all natural numbers from n to 98
 a task on Nature made the natural numbers; All else is the work of women
 a program that prints the first 50 Fibonacci numbers, starting with 1 and 2
 implemented answer to  Even Liber Abbaci
+ program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2

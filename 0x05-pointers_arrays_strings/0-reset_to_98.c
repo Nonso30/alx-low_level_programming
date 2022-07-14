@@ -1,4 +1,5 @@
-#include "holberton.h"
+#include <stdio.h>
+#include "main.h"
 
 /**
  * reset_to_98 - Directs a pointer to an int and changes

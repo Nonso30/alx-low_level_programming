@@ -6,3 +6,4 @@ function that prints a string, in reverse, followed by a new line.
 function that reverses a string.
 Half the lies they tell about me aren't true
 function that prints half of a string, followed by a new line.
+Arrays are not pointers

@@ -4,3 +4,4 @@ a function that returns the length of a string
 a function that prints a string, followed by a new line
 function that prints a string, in reverse, followed by a new line.
 function that reverses a string.
+Half the lies they tell about me aren't true

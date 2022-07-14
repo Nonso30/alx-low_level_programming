@@ -9,3 +9,4 @@ function that prints half of a string, followed by a new line.
 Arrays are not pointers
 a function that copies the string pointed to by src, including the terminating null byte
 function that convert a string to an integer.
+program that generates random valid passwords for the program 

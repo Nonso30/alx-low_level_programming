@@ -9,3 +9,4 @@ function that encodes a string into 1337.
 a function that encodes a string using rot13.
 a function that prints an integer.
 A dream doesn't become reality through magic
+function that adds two numbers.
